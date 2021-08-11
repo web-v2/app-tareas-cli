@@ -1,0 +1,26 @@
+{
+  "name": "app-tareas",
+  "version": "1.0.0",
+  "description": "App para llevar Tareas\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[2~Desarr\u001b[2~ollada en Node para llevar tareas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Samir Vergara",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.1.2",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/web-v2/app-tareas-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/web-v2/app-tareas-node/issues"
+  },
+  "homepage": "https://github.com/web-v2/app-tareas-node#readme"
+}
